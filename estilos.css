@@ -1,0 +1,71 @@
+
+.contenedor{
+
+    width: 80%;
+    height: 950px;
+
+}
+
+.cabecera{
+
+    font-size: 2em;
+    margin-bottom: 0.5em;
+
+}
+
+
+.menu{
+
+    margin-bottom: 40PX;
+    font-size: 20PX;
+
+
+}
+
+ul{
+
+    list-style: none;
+
+}
+
+li{
+
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.Contenido{
+
+    background-color: #808080;
+    border:  solid 2px #ff0000;
+
+
+}
+
+.articulo{
+
+    color: #ff0000;
+
+}
+
+p{
+
+    color: #ffffff;
+
+}
+
+a{
+
+    color: #0000ff;
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    background-color: black;
+
+
+}
+
